@@ -6,5 +6,9 @@ This is a simple readme file
 ## Heading 2 
 
 
-tHIS IS A BOUND TO CAUSE A TROUBLE
+Just something goin on 
+
+Updates in stage 
+
+More updates in work
 
